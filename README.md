@@ -1,2 +1,1 @@
-# HobbyGenie
-One of my python projects.
+This program acts as a hobby generator, enabling users to explore diverse interests. It randomly selects hobbies from a pool inputted by the user and offers options to obtain a random hobby, select a different one from the previous choice, add new hobbies to the selection, or remove existing ones. Utilizing file interaction, the program stores hobby data in a file, allowing for easy management and persistence of hobby choices across sessions. Upon completion, any modifications made to the hobby pool are saved to the file before the program exits, ensuring that user preferences are retained for future use.
